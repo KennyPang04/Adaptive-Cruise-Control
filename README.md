@@ -39,3 +39,7 @@ I would suggest to follow the steps in our documentation, there is multiple wiri
 - Integrate a remote control to allow user to switch between autonomous and user controlled.
 - Fixing issues with adjusting speed when distance gets smaller.
 - Build up a body with a newly 3D printed design with adjusted wiring.
+
+## Contributors
+- Kenneth Pang - [Github](https://github.com/KennyPang04)
+- Ornie Payer - [Github](https://github.com/Ornipay)
